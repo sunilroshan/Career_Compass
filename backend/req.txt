@@ -1,0 +1,28 @@
+# FastAPI Framework
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# LangChain & AI
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+langchain-core
+
+# Vector Store & Embeddings
+faiss-cpu
+
+# Environment & Configuration
+python-dotenv
+
+# Logging & Utilities
+loguru
+
+# CORS
+python-jose[cryptography]
+
+# Testing (optional)
+pytest
+httpx
