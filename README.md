@@ -98,26 +98,7 @@ Frontend runs on: **http://localhost:5173**
    - Get detailed analysis with scores and suggestions
 4. **Career Chat**: Ask questions about career paths, skills, and job readiness
 
-## 📁 Project Structure
-```
-career-compass/
-├── backend/
-│   ├── app/
-│   │   └── services/
-│   │       ├── analyze.py
-│   │       ├── chat.py
-│   │       └── resume_parser.py
-│   ├── main.py
-│   ├── req.txt
-│   └── .env
-├── frontend/
-│   ├── src/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── package.json
-│   └── index.html
-└── README.md
-```
+
 
 ## 🔑 API Endpoints
 
@@ -129,7 +110,6 @@ career-compass/
 ## 🎨 Screenshots
 
 <img width="1885" height="912" alt="image" src="https://github.com/user-attachments/assets/595c115a-0629-4b3a-b0bb-294e4700db6f" />
-
 
 
 ## 👨‍💻 Author
