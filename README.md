@@ -128,21 +128,15 @@ career-compass/
 
 ## 🎨 Screenshots
 
-[Add screenshots of your application here]
+<img width="1885" height="912" alt="image" src="https://github.com/user-attachments/assets/595c115a-0629-4b3a-b0bb-294e4700db6f" />
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-## 📝 License
-
-This project is [MIT](LICENSE) licensed.
 
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/sunilroshan)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sunilroshan1/)
 
 ## 🙏 Acknowledgments
 
