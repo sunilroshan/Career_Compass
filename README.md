@@ -115,8 +115,8 @@ Frontend runs on: **http://localhost:5173**
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/sunilroshan)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sunilroshan1/)
+- GitHub: [Sunil Roshan](https://github.com/sunilroshan)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sunilroshan1/)
 
 ## 🙏 Acknowledgments
 
